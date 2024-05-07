@@ -17,8 +17,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Free and Open-Source",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "AI-Powered Tagging",
+    paragraph: "Automatically categorizes your copied content with smart tags—making retrieval simple.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -38,8 +38,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Modern Design",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Encryption at Your Fingertips",
+    paragraph: "Sensitive data? No worries. Thingz encrypts your passwords and private notes, keeping your data secure.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -91,8 +91,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "SaaS Starter Kit",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Seamless Sync and Access",
+    paragraph: "Any device, any time. Access your digital content across all your devices with seamless synchronization.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -124,8 +124,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "All Essential Integrations",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Version History",
+    paragraph: "Never lose a thing with version control. Go back in time to retrieve earlier versions of your data.",
     btn: "Learn More",
     btnLink: "/#",
   },
