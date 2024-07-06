@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import type { RadioChangeEvent } from 'antd';
 import { Radio } from 'antd';
 
-const ThingType: React.FC = () => {
+const ThingTypeInput: React.FC = () => {
   const [value, setValue] = useState(1);
 
   const onChange = (e: RadioChangeEvent) => {
@@ -20,4 +20,4 @@ const ThingType: React.FC = () => {
   );
 };
 
-export default ThingType;
+export default ThingTypeInput;

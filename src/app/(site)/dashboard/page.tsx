@@ -1,5 +1,6 @@
 import Breadcrumb from "@/components/Common/Breadcrumb";
 import Dashboard from "@/components/Dashboard";
+import Thing from "@/components/Thing/Thing";
 
 import { Metadata } from "next";
 
@@ -14,6 +15,7 @@ const DashboardPage = () => {
     <>
       <Breadcrumb pageName="Dashboard" />
       <Dashboard />
+      <Thing />
     </>
   );
 };

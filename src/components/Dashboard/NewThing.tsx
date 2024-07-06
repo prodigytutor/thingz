@@ -1,7 +1,7 @@
 "use client"
 import { Button } from 'antd';
-import Password from '../Global/Passord';
-import ThingType from '../Global/ThingType';
+import Password from '../Thing/Passord';
+import ThingType from '../Thing/ThingTypeInput';
 const NewThing = () => {
   return (
     <section>
